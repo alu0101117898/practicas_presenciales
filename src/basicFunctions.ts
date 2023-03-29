@@ -6,6 +6,7 @@
  * ```typescript
  * add(1, 7) = 8
  * ```
+ * true
  */
 export function add(firstNumber: number, secondNumber: number) {
   return firstNumber + secondNumber;
